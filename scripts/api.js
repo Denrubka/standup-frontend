@@ -1,4 +1,4 @@
-import { Notification } from "./notification";
+import { Notification } from "./notification.js";
 
 const API_URL = "https://uncovered-atlantic-lead.glitch.me/";
 

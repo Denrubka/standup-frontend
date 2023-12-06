@@ -1,6 +1,6 @@
 import Inputmask from "inputmask";
 import JustValidate from "just-validate";
-import { Notification } from "./notification";
+import { Notification } from "./notification.js";
 import { sendData } from "./api.js";
 
 export const initForm = (

@@ -1,7 +1,6 @@
 import "./style.css";
 import { initForm } from "./scripts/form.js";
 import { getComedians } from "./scripts/api.js";
-import { createComedianBlock } from "./scripts/comedians.js";
 import { initChangeSection } from "./scripts/changeSection.js";
 import { initQrPage } from "./scripts/qrPage.js";
 

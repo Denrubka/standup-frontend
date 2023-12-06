@@ -1,6 +1,6 @@
 import { getClient, getComedians } from "./api.js";
 import { displayBooking, displayClientInfo } from "./display.js";
-import { Notification } from "./notification";
+import { Notification } from "./notification.js";
 import { showQrController } from "./showQrController.js";
 
 const getTicketNumber = () => {
